@@ -24,8 +24,9 @@ team_data <- tibble(
   colour = c("powderblue", "Blue", "yellow", 
              "green", "colour 4"),
   hobby = c("Hopping", "Football", "cycling", 
-            "kayaking", "hobby 4"),
+            "kayaking", "sleeping"),
   favourite_number = c(2, 2, 372928343412809340873182098312758340278071, 36, NA)
+
   )
 
 team_data
