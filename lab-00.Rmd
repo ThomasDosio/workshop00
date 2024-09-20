@@ -26,7 +26,7 @@ team_data <- tibble(
   name = c("Peter Rabbit", "Alex", "Thomas", 
            "Harry", "member 4"),
   github_username = c("mcgregors-garden", "Provenzanoo", "ThomasDosio", 
-                      "username 3", "username 4"), 
+                      "hrhodes628", "username 4"), 
   colour = c("powderblue", "Blue", "yellow", 
              "green", "colour 4"),
   hobby = c("Hopping", "Football", "cycling", 
